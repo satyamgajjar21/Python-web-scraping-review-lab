@@ -1,4 +1,4 @@
-# **Web Scraping Lab**
+# **Web Scraping Review Lab**
 
 Estimated time needed: **30** minutes
 
